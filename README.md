@@ -1,3 +1,5 @@
+Requires: Module Manager, Waterfall, Smokescreen
+
 Instalation Instructions
 1.Remove SWE/RSMP
 2.Remove Realplume
